@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("DOSTO_KI_M3HFILS")
-                await self.one.join_chat("RIDER_MUSIC_SUPPORT")
+                await self.one.join_chat("QUEEN_MUSIC_NETWORK")
+                await self.one.join_chat("QUEEN_SUPPORTS_CHAT")
             except:
                 pass
             assistants.append(1)
@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("dosto_ki_m3hfil")
-                await self.two.join_chat("rider_music_support")
+                await self.two.join_chat("QUEEN_MUSIC_NETWORK")
+                await self.two.join_chat("QUEEN_SUPPORTS_CHAT")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("dosto_ki_m3hfil")
-                await self.three.join_chat("rider_music_support")
+                await self.three.join_chat("QUEEN_MUSIC_NETWORK")
+                await self.three.join_chat("QUEEN_SUPPORTS_CHAT")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("dosto_ki_m3hfil")
-                await self.four.join_chat("rider_music_support")
+                await self.four.join_chat("QUEEN_MUSIC_NETWORK")
+                await self.four.join_chat("QUEEN_SUPPORTS_CHAT")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("dosto_ki_m3hfil")
-                await self.five.join_chat("rider_music_support")
+                await self.five.join_chat("QUEEN_MUSIC_NETWORK")
+                await self.five.join_chat("QUEEN_SUPPORTS_CHAT")
             except:
                 pass
             assistants.append(5)
