@@ -17,13 +17,13 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/c9bf09ab92ce5432b4cb7.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://te.legra.ph/file/ff03cc9696ece7c648a97.jpg",
+        caption=f"""KINDLY CONTACT OWNER FOR DM""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝗘𝗕𝗗 𝗤𝗡 🌹", url=f"https://t.me/MAFIA_RJ")
+                        "🌹 UNK NETWORK🌹", url=f"https://t.me/UNK_NETWORK")
                 ]
             ]
         ),
@@ -35,13 +35,13 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/c9bf09ab92ce5432b4cb7.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        photo=f"https://te.legra.ph/file/ff03cc9696ece7c648a97.jpg",
+        caption=f"""KINDLY CONTACT OWNER FOR DM""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝗘𝗕𝗗 𝗤𝗡 🌹", url=f"https://t.me/MAFIA_RJ")
+                        "🌹 UNK HUNTERX 🌹", url=f"https://t.me/UNK_HUNTERX")
                 ]
             ]
         ),
@@ -64,7 +64,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/QUEEN_SUPPORTS_CHAT")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/UNK_SUPPORT")
                 ]
             ]
         ),
